@@ -1,10 +1,3 @@
-[<img align="left" alt="tanaydpatel | Twitter"  src="http://tanaypatelweb.me.s3-website.ap-south-1.amazonaws.com/Tanay-Patel.png" />](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ftanaydpatel&screen_name=tanaydpatel)
-
-<br />
-<br />
-<br />
-<br />
-
 ### Hi, Welcome to my github profile. 👋
 #### I am Tanay Patel an information technology student having experience in full-stack web development.
 <br />
