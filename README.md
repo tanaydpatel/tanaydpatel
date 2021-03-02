@@ -2,11 +2,13 @@
 #### I am Tanay Patel an information technology student having experience in full-stack web development.
 <br />
 
-- 🔭 I’m currently working on My Portfolio site <br />
-- 🌱 I’m currently learning Blockchain technology <br />
-- ⚡ I also experience with cloud AWS & GCP mainly for web develpment.
+- 🔭 I’m currently developing an E-commerce website.<br />
+- 🌱 I’m currently learning Gatsby <br />
+- ⚡ I also have experience with cloud AWS & GCP mainly for web develpment.
 
 #### Connect with me:
+
+:globe_with_meridians: **[tanaypatel.dev](https://www.tanaydpatel.dev)**
 
 [<img align="left" alt="tanaydpatel | Twitter" width="32px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />](https://twitter.com/tanaydpatel)
 [<img align="left" alt="tanaydpatel | LinkedIn" width="32px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />](https://www.linkedin.com/in/tanaydpatel)
