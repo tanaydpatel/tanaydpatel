@@ -8,7 +8,7 @@
 
 #### Connect with me:
 
-:globe_with_meridians: **[tanaypatel.dev](https://www.tanaydpatel.dev)**
+:globe_with_meridians: **[tanaypatel.dev](https://www.tanaypatel.dev)**
 
 [<img align="left" alt="tanaydpatel | Twitter" width="32px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />](https://twitter.com/tanaydpatel)
 [<img align="left" alt="tanaydpatel | LinkedIn" width="32px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />](https://www.linkedin.com/in/tanaydpatel)
