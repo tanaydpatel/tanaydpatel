@@ -24,7 +24,7 @@ I am Tanay Patel an information technology student and full stack web developer.
 
 🌐 **[tanaypatel.dev](https://www.tanaypatel.dev)**
 
-> `(This website is still a work inprogrss)`
+> `(This website is still a work in-progress)`
 
 #### On social media
 
