@@ -16,6 +16,8 @@ I am Tanay Patel an information technology student and full stack web developer.
 
 - 🚀 I am well familiar with AWS cloud infrastructer (for APIs, Serverless, Web server etc.)
 
+- 🧠 Looking forward to contribute to open source community. <i>(currently exploring serverless-nextjs, AWS-amplify, react js)</i>
+
 ---
 
 ### Connect with me
