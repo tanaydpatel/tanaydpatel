@@ -12,7 +12,7 @@ For my Resume : [Click here](http://bit.ly/tanaypatel)
 
   > (ps. - I'll surely write a blog about it. 🤠)
 
-- 🌱 I’m currently learning NEXT JS. Mainly because server side rendering gives better SEO results and performance.
+- 🌱 I’m currently learning NEXT JS. Because server side rendering gives better SEO results and performance and NextJS is cool !
 
 - 🚀 I am well familiar with AWS cloud infrastructer (for APIs, Serverless, Web server etc.)
 
