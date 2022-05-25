@@ -1,6 +1,9 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="35"/> Welcome to my github profile
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="35"/> Hello, welcome to my github profile!
 
-I am an information technology student graduating in 2021. I enjoy working with cutting-edge technologies to create high-performance and creative software solutions.
+I am Tanay, working as a software engineer @Snaphunt (fullstack). I specialize in MERN and love JavaScript. Getting my hands dirty with GoLang and looking forward build some experimental projects with it. I enjoy working with cutting-edge technologies to create high-performance and creative software solutions. 
+If you're here to check out my work you can go throught my pinned repos. 
+
+Thanks for visiting!
 
 For my Resume : [Click here](http://bit.ly/tanaypatel)
 
@@ -10,11 +13,11 @@ For my Resume : [Click here](http://bit.ly/tanaypatel)
 
 - 🖥️ I’m currently developing an E-commerce website with `NEXT JS, AWS Lambda, and MERN stack with Razorpay payment gateway`.
 
-  > (ps. - I'll surely write a blog about it. 🤠)
-
-- 🌱 I’m currently learning NEXT JS. Because server side rendering gives better SEO results and performance and NextJS is cool !
+- 🌱 I’m currently learning GoLang. Because it seems cool !
 
 - 🚀 I am well familiar with AWS cloud infrastructer (for APIs, Serverless, Web server etc.)
+
+- 💡 Ready to collaborate on intresting/innovative ideas. Drop me a [mail](mailto:me@tanaypatel.dev) 
 
 - 🧠 Looking forward to contribute to open source community. <i>(currently exploring serverless-nextjs & AWS-amplify)</i>
 
@@ -23,8 +26,6 @@ For my Resume : [Click here](http://bit.ly/tanaypatel)
 ### Connect with me
 
 🌐 **[tanaypatel.dev](https://www.tanaypatel.dev)**
-
-> `(This website is still a work in-progress)`
 
 #### On social media
 
@@ -61,3 +62,5 @@ For my Resume : [Click here](http://bit.ly/tanaypatel)
 ### My recent article
 
 [Named Data Networking (NDN) — The new internet.](https://dev.to/tanaydpatel/named-data-networking-ndn-the-new-internet-5ejk)
+
+(Need motivation to write more 😂)
