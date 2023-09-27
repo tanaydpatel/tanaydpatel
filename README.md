@@ -5,7 +5,6 @@ If you're here to check out my work you can go throught my pinned repos.
 
 Thanks for visiting!
 
-For my Resume : [Click here](http://bit.ly/tanaypatel)
 
 ---
 
