@@ -1,24 +1,22 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="35"/> Hello, welcome to my github profile!
 
-I am Tanay, working as a software engineer @Snaphunt (fullstack). I specialize in MERN and love JavaScript. Getting my hands dirty with GoLang and looking forward build some experimental projects with it. I enjoy working with cutting-edge technologies to create high-performance and creative software solutions. 
-If you're here to check out my work you can go throught my pinned repos. 
+I am Tanay, working as a Full stack developer @Zendesk. I specialize in MERN and love JavaScript. I enjoy working with cutting-edge technologies to create high-performance and creative business software solutions. If you're here to check out my work you can go throught my pinned repos. 
 
 Thanks for visiting!
-
 
 ---
 
 ### Something about me
 
-- 🖥️ I’m currently developing an E-commerce website with `NEXT JS, AWS Lambda, and MERN stack with Razorpay payment gateway`.
+- 🖥️ I’m currently developing an E-commerce tool suite (Store, Invoicing, Inventory, Marketting).
 
-- 🌱 I’m currently learning GoLang. Because it seems cool !
+- 🌱 I’m currently learning LLD system design.
 
-- 🚀 I am well familiar with AWS cloud infrastructer (for APIs, Serverless, Web server etc.)
+- 🚀 I am well familiar with AWS/GCP cloud infrastructer.
 
 - 💡 Ready to collaborate on intresting/innovative ideas. Drop me a [mail](mailto:me@tanaypatel.dev) 
 
-- 🧠 Looking forward to contribute to open source community. <i>(currently exploring serverless-nextjs & AWS-amplify)</i>
+- 🧠 Looking forward to contribute to open source community.
 
 ---
 
@@ -52,14 +50,3 @@ Thanks for visiting!
   <img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="Sass" height="50" /> 
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /> 
  </div>
-
-
-<br>
-
-<br>
-
-### My recent article
-
-[Named Data Networking (NDN) — The new internet.](https://dev.to/tanaydpatel/named-data-networking-ndn-the-new-internet-5ejk)
-
-(Need motivation to write more 😂)
