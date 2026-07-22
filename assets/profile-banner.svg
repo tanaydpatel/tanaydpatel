@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title description">
+  <title id="title">Tanay Patel — Generative AI and Full-Stack Engineer</title>
+  <desc id="description">A dark green developer profile banner with a warm ivory grid and abstract system nodes.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#102a25"/>
+      <stop offset="1" stop-color="#173f35"/>
+    </linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#f2ead9" stroke-opacity=".07"/>
+    </pattern>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="9" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="360" rx="28" fill="url(#background)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
+  <circle cx="1080" cy="60" r="190" fill="#f0a04b" opacity=".08"/>
+  <circle cx="1150" cy="300" r="150" fill="#72d6b2" opacity=".06"/>
+
+  <g fill="none" stroke="#72d6b2" stroke-width="2" opacity=".68">
+    <path d="M910 104h76l45 45h72"/>
+    <path d="M872 180h106l54 54h92"/>
+    <path d="M925 270h80l42-42h77"/>
+  </g>
+  <g fill="#72d6b2" filter="url(#glow)">
+    <circle cx="910" cy="104" r="6"/><circle cx="1103" cy="149" r="6"/>
+    <circle cx="872" cy="180" r="6"/><circle cx="1124" cy="234" r="6"/>
+    <circle cx="925" cy="270" r="6"/><circle cx="1124" cy="228" r="6"/>
+  </g>
+
+  <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">
+    <text x="72" y="92" fill="#72d6b2" font-size="19" font-weight="700" letter-spacing="4">HELLO, I BUILD SYSTEMS THAT SHIP</text>
+    <text x="68" y="181" fill="#fffaf0" font-size="76" font-weight="760" letter-spacing="-2">Tanay Patel</text>
+    <text x="72" y="236" fill="#f0a04b" font-size="27" font-weight="650">Generative AI · Full-Stack Engineering · Product Systems</text>
+    <text x="72" y="292" fill="#d9e5df" font-size="21">From an ambitious prototype to dependable production.</text>
+  </g>
+  <rect x="72" y="317" width="116" height="4" rx="2" fill="#f0a04b"/>
+</svg>
