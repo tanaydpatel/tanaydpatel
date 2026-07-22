@@ -61,7 +61,7 @@ I’m a **Generative AI & Full-Stack Engineer** who connects product thinking, s
 
 <p align="center">
   <a href="https://github.com/tanaydpatel?tab=repositories"><strong>Browse repositories</strong></a> ·
-  <a href="https://github.com/tanaydpatel?tab=overview&from=2026-01-01&to=2026-12-31"><strong>View contributions</strong></a> ·
+  <a href="https://github.com/tanaydpatel?tab=overview"><strong>View contributions</strong></a> ·
   <a href="https://www.tanaypatel.dev/#work"><strong>Explore case studies</strong></a>
 </p>
 
