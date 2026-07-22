@@ -56,8 +56,13 @@ I’m a **Generative AI & Full-Stack Engineer** who connects product thinking, s
 ## GitHub at a glance
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tanaydpatel&show_icons=true&hide_border=true&bg_color=00000000&title_color=F0A04B&icon_color=72D6B2&text_color=718096&rank_icon=github" alt="Tanay Patel's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanaydpatel&layout=compact&hide_border=true&bg_color=00000000&title_color=F0A04B&text_color=718096&langs_count=6" alt="Most-used languages across Tanay Patel's public repositories" />
+  <img src="./assets/github-at-a-glance.svg" alt="Tanay Patel's engineering work at a glance: Generative AI, full-stack product engineering, and cloud systems" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/tanaydpatel?tab=repositories"><strong>Browse repositories</strong></a> ·
+  <a href="https://github.com/tanaydpatel?tab=overview&from=2026-01-01&to=2026-12-31"><strong>View contributions</strong></a> ·
+  <a href="https://www.tanaypatel.dev/#work"><strong>Explore case studies</strong></a>
 </p>
 
 <details>
